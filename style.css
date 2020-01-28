@@ -1,0 +1,56 @@
+body {
+  text-align: center;
+}
+
+#survey-form{
+  background-color: green;
+  width:900px;
+  margin: 0 auto;
+}
+
+.row-tab{
+  display: block;
+  padding: 5px;
+}
+
+.label-sport{
+  display:inline-block;
+  width: 350px;
+  text-align: right;
+}
+
+.input-sport{
+  display: inline-block;
+  text-align:left;
+  width: 50%;
+}
+
+.labels-radio{
+  display: inline-block;
+  text-align:left;
+  width: 50%;
+  padding-top: 30px;
+}
+
+.input-radio{
+  display: inline-block;
+  text-align:left;
+  width: 50%;
+}
+
+.labels-checkbox{
+  display: inline-block;
+  text-align:left;
+  width: 50%;
+  padding-top: 20px;
+}
+
+.checkbox-input{
+  display: inline-block;
+  text-align:left;
+  width: 50%;
+}
+
+.submit{
+  padding:20px;
+}
