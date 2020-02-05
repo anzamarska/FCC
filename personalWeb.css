@@ -1,0 +1,13 @@
+#navbar {
+  position: fixed;
+}
+
+#welcome-section{
+  height: 100vh;
+}
+  
+@media screen and (max-width: 750px){
+  div.main-body{
+    grid-template-columns: 1fr;
+    grid-template-areas: "navbar" "mainContent";
+  }
